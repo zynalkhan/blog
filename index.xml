@@ -17,14 +17,5 @@
 Visit the Hugo website!</description>
     </item>
     
-    <item>
-      <title>Test</title>
-      <link>https://zynalkhan.github.io/blog/docs/test/</link>
-      <pubDate>Thu, 04 May 2023 20:49:41 +1200</pubDate>
-      
-      <guid>https://zynalkhan.github.io/blog/docs/test/</guid>
-      <description>Test Doc This is a test document.</description>
-    </item>
-    
   </channel>
 </rss>
