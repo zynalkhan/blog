@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://zynalkhan.github.io/blog/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 04 May 2023 20:49:41 +1200</lastBuildDate><atom:link href="https://zynalkhan.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://zynalkhan.github.io/blog/docs/test/</link>
+      <pubDate>Thu, 04 May 2023 20:49:41 +1200</pubDate>
+      
+      <guid>https://zynalkhan.github.io/blog/docs/test/</guid>
+      <description>Test Doc This is a test document.</description>
+    </item>
+    
+  </channel>
+</rss>
