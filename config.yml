@@ -3,4 +3,11 @@ languageCode: en-us
 title: ZK
 theme: PaperMod
 
-disableSpecial1stPost: true
+params:
+    env: production
+    defaultTheme: auto
+    disableThemeToggle: false
+    ShowReadingTime: true
+    disableSpecial1stPost: true
+    ShowToc: true
+    tocopen: true
