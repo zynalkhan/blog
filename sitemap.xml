@@ -2,21 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://zynalkhan.github.io/blog/</loc>
-    <lastmod>2023-05-04T22:08:06+12:00</lastmod>
-  </url><url>
     <loc>https://zynalkhan.github.io/blog/posts/</loc>
     <lastmod>2023-05-04T22:08:06+12:00</lastmod>
   </url><url>
     <loc>https://zynalkhan.github.io/blog/posts/second-post/</loc>
     <lastmod>2023-05-04T22:08:06+12:00</lastmod>
   </url><url>
+    <loc>https://zynalkhan.github.io/blog/</loc>
+    <lastmod>2023-05-04T22:08:06+12:00</lastmod>
+  </url><url>
     <loc>https://zynalkhan.github.io/blog/posts/my-first-post/</loc>
     <lastmod>2023-05-04T21:52:34+12:00</lastmod>
   </url><url>
     <loc>https://zynalkhan.github.io/blog/categories/</loc>
-  </url><url>
-    <loc>https://zynalkhan.github.io/blog/series/</loc>
   </url><url>
     <loc>https://zynalkhan.github.io/blog/tags/</loc>
   </url>
