@@ -3,6 +3,12 @@ languageCode: en-us
 title: ZK
 theme: PaperMod
 
+menu:
+    main:
+        - name: Search
+            url: search/
+            weight: 5
+
 outputs:
     home:
         - HTML
