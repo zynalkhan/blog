@@ -5,7 +5,8 @@ theme: PaperMod
 
 menu:
   main:
-    - name: Search
+    - identifier: search
+      name: Search
       url: search/
       weight: 10
 
